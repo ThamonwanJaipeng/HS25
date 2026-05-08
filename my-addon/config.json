@@ -1,0 +1,9 @@
+{
+  "name": "My Addon",
+  "version": "1.0.0",
+  "slug": "my_addon",
+  "description": "First Home Assistant Addon",
+  "startup": "services",
+  "boot": "auto",
+  "arch": ["amd64", "aarch64"]
+}
